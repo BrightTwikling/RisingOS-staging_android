@@ -18,7 +18,7 @@ Getting Started
 ---------------
 **Initialize local repository**
 ```bash
-repo init -u https://github.com/RisingOS-staging/android -b fifteen --git-lfs
+repo init -u https://github.com/BrightTwikling/RisingOS-staging_android -b fifteen_zf7 --git-lfs
 ```
 
 **Sync up with this command:**
